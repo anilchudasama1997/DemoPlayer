@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/playIcon/apple.png",
+      "sha1": "2288c54c0b24b0aaef447d69c52bbfcd1122799c"
+    },
+    {
+      "path": "src/assets/playIcon/fi.png",
+      "sha1": "74d7529fa9167b6e0dac664f145153ed1320ffc0"
+    },
+    {
+      "path": "src/assets/playIcon/insta.png",
+      "sha1": "5dd7c7b17c47aef19a18c16c937413deaf518089"
+    },
+    {
+      "path": "src/assets/playIcon/spotee.png",
+      "sha1": "c5b2854b5c4bfa72f82a547cbbdc651a293906ac"
+    },
+    {
+      "path": "src/assets/playIcon/video.mp4",
+      "sha1": "818a3216bd97e30e864ee0f53a1d5a0b47a1393c"
+    },
+    {
+      "path": "src/assets/playIcon/vio.png",
+      "sha1": "62901cc5938700275f1b750474ecad0a986a60b5"
+    },
+    {
+      "path": "src/assets/playIcon/youtube.png",
+      "sha1": "f718ede9fb8a2f9b906887398fb282be16b085ce"
+    }
+  ]
+}
