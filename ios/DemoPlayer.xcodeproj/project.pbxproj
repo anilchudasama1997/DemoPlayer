@@ -22,6 +22,7 @@
 		EF514AE1ED1D4FCF9CEB8D78 /* vio.png in Resources */ = {isa = PBXBuildFile; fileRef = DEF278AAFFBE438EA53FDF6B /* vio.png */; };
 		F0CDFB83E81543C7A60D6EB5 /* youtube.png in Resources */ = {isa = PBXBuildFile; fileRef = B027DC3522A3464094618CDA /* youtube.png */; };
 		F17B41D954D64E02AEE46A18 /* playlist2.gif in Resources */ = {isa = PBXBuildFile; fileRef = F15C28245D15419CBE02C7F1 /* playlist2.gif */; };
+		10B75A3C6C3246AB9E7F633B /* shape.js in Resources */ = {isa = PBXBuildFile; fileRef = B24C93788EC54B2AAAF24A29 /* shape.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F15C28245D15419CBE02C7F1 /* playlist2.gif */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = playlist2.gif; path = ../src/assets/gif/playlist2.gif; sourceTree = "<group>"; };
 		F3484D317CDF4AED89611412 /* spotee.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = spotee.png; path = ../src/assets/playIcon/spotee.png; sourceTree = "<group>"; };
+		B24C93788EC54B2AAAF24A29 /* shape.js */ = {isa = PBXFileReference; name = "shape.js"; path = "../src/assets/playIcon/shape.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				90AC74F66FD0445E9CAD8877 /* playlist1.gif */,
 				F15C28245D15419CBE02C7F1 /* playlist2.gif */,
 				1824D26C881F4C00A3D13B9F /* playlist3.gif */,
+				B24C93788EC54B2AAAF24A29 /* shape.js */,
 			);
 			name = Resources;
 			path = "";
@@ -210,6 +213,7 @@
 				22B47505366C46CBAF9CB5B6 /* playlist1.gif in Resources */,
 				F17B41D954D64E02AEE46A18 /* playlist2.gif in Resources */,
 				DDFD8E8BC8824387BE1350ED /* playlist3.gif in Resources */,
+				10B75A3C6C3246AB9E7F633B /* shape.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
