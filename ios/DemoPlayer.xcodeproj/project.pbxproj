@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0C80B921A6F3F58F76C31292 /* libPods-DemoPlayer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-DemoPlayer.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		22B47505366C46CBAF9CB5B6 /* playlist1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 90AC74F66FD0445E9CAD8877 /* playlist1.gif */; };
 		3626051BFF94443097330183 /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9D7AE6B257694CCD8B7F9613 /* video.mp4 */; };
 		54D18D06B37148AE9C549C44 /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A83C2F3E354A3A8FD22BFB /* apple.png */; };
 		5654738FBD6298B1E2812F64 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
@@ -17,8 +18,10 @@
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		C9DCA0E77672499C82370B1F /* insta.png in Resources */ = {isa = PBXBuildFile; fileRef = 702FD758F1544C7DABE080BC /* insta.png */; };
+		DDFD8E8BC8824387BE1350ED /* playlist3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1824D26C881F4C00A3D13B9F /* playlist3.gif */; };
 		EF514AE1ED1D4FCF9CEB8D78 /* vio.png in Resources */ = {isa = PBXBuildFile; fileRef = DEF278AAFFBE438EA53FDF6B /* vio.png */; };
 		F0CDFB83E81543C7A60D6EB5 /* youtube.png in Resources */ = {isa = PBXBuildFile; fileRef = B027DC3522A3464094618CDA /* youtube.png */; };
+		F17B41D954D64E02AEE46A18 /* playlist2.gif in Resources */ = {isa = PBXBuildFile; fileRef = F15C28245D15419CBE02C7F1 /* playlist2.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = DemoPlayer/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = DemoPlayer/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = DemoPlayer/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		1824D26C881F4C00A3D13B9F /* playlist3.gif */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = playlist3.gif; path = ../src/assets/gif/playlist3.gif; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-DemoPlayer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoPlayer.debug.xcconfig"; path = "Target Support Files/Pods-DemoPlayer/Pods-DemoPlayer.debug.xcconfig"; sourceTree = "<group>"; };
 		43A83C2F3E354A3A8FD22BFB /* apple.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = apple.png; path = ../src/assets/playIcon/apple.png; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-DemoPlayer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoPlayer.release.xcconfig"; path = "Target Support Files/Pods-DemoPlayer/Pods-DemoPlayer.release.xcconfig"; sourceTree = "<group>"; };
@@ -34,10 +38,12 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = DemoPlayer/AppDelegate.swift; sourceTree = "<group>"; };
 		7A83CD5483464E9991E72D3B /* fi.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = fi.png; path = ../src/assets/playIcon/fi.png; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = DemoPlayer/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		90AC74F66FD0445E9CAD8877 /* playlist1.gif */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = playlist1.gif; path = ../src/assets/gif/playlist1.gif; sourceTree = "<group>"; };
 		9D7AE6B257694CCD8B7F9613 /* video.mp4 */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = video.mp4; path = ../src/assets/playIcon/video.mp4; sourceTree = "<group>"; };
 		B027DC3522A3464094618CDA /* youtube.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = youtube.png; path = ../src/assets/playIcon/youtube.png; sourceTree = "<group>"; };
 		DEF278AAFFBE438EA53FDF6B /* vio.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = vio.png; path = ../src/assets/playIcon/vio.png; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F15C28245D15419CBE02C7F1 /* playlist2.gif */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = playlist2.gif; path = ../src/assets/gif/playlist2.gif; sourceTree = "<group>"; };
 		F3484D317CDF4AED89611412 /* spotee.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = spotee.png; path = ../src/assets/playIcon/spotee.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -84,6 +90,9 @@
 				9D7AE6B257694CCD8B7F9613 /* video.mp4 */,
 				DEF278AAFFBE438EA53FDF6B /* vio.png */,
 				B027DC3522A3464094618CDA /* youtube.png */,
+				90AC74F66FD0445E9CAD8877 /* playlist1.gif */,
+				F15C28245D15419CBE02C7F1 /* playlist2.gif */,
+				1824D26C881F4C00A3D13B9F /* playlist3.gif */,
 			);
 			name = Resources;
 			path = "";
@@ -198,6 +207,9 @@
 				3626051BFF94443097330183 /* video.mp4 in Resources */,
 				EF514AE1ED1D4FCF9CEB8D78 /* vio.png in Resources */,
 				F0CDFB83E81543C7A60D6EB5 /* youtube.png in Resources */,
+				22B47505366C46CBAF9CB5B6 /* playlist1.gif in Resources */,
+				F17B41D954D64E02AEE46A18 /* playlist2.gif in Resources */,
+				DDFD8E8BC8824387BE1350ED /* playlist3.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

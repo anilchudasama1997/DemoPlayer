@@ -2,6 +2,18 @@
   "migIndex": 1,
   "data": [
     {
+      "path": "src/assets/gif/playlist1.gif",
+      "sha1": "715ec7068333a2be7f44e9be0a5a0f3ec8d9a71e"
+    },
+    {
+      "path": "src/assets/gif/playlist2.gif",
+      "sha1": "fdc19140e42b9d95dd31d7f1013bf42c0c17c70d"
+    },
+    {
+      "path": "src/assets/gif/playlist3.gif",
+      "sha1": "a5f8ae53b1aeed81b3d6157ef9bfc3f8f0eb7dd0"
+    },
+    {
       "path": "src/assets/playIcon/apple.png",
       "sha1": "2288c54c0b24b0aaef447d69c52bbfcd1122799c"
     },

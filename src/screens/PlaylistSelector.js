@@ -260,6 +260,17 @@ const PlaylistSelector = ({navigation, route}) => {
             <View style={{ width: '100%', height: 100, marginTop: 20 }} />
           </SkeletonPlaceholder>
         </View>
+        <View style={styles.container3}>
+          <Text style={styles.title}>Title 3</Text>
+          <FlatList
+            style={{marginTop: 15}}
+            data={loading ? Array(4).fill({}) : DATA}
+            horizontal
+            showsHorizontalScrollIndicator={false}
+            keyExtractor={(item, index) => item.id || index.toString()}
+            renderItem={({ item }) =><SkeletonItem item={item} loading={true}/>}
+          />
+        </View>
         <View style={{height: 100}}/>
       </ScrollView>
     </SafeAreaView>
